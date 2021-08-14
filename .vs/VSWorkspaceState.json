@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\_includes",
-    "\\_layouts"
+    "\\_layouts",
+    "\\_site"
   ],
-  "SelectedNode": "\\_includes\\blog.html",
+  "SelectedNode": "\\_includes\\portfolio.html",
   "PreviewInSolutionExplorer": false
 }
