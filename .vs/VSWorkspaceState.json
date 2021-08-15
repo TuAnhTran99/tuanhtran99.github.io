@@ -1,10 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets",
-    "\\_includes",
-    "\\_layouts"
+    "\\_includes"
   ],
-  "SelectedNode": "\\_includes\\cv.html",
+  "SelectedNode": "\\Gemfile.lock",
   "PreviewInSolutionExplorer": false
 }
