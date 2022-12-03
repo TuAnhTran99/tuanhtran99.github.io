@@ -38,7 +38,7 @@ a {
     color: #ef7070;
 }
 #resume .resume-left ul li h5 {
-    border-bottom: 1px solid #b63737;
+    border-bottom: 1px solid #ef7070;
 }
 .attributes span.glyphicon, .attributes h6 {
     color: #ef7070;
@@ -126,17 +126,17 @@ h2.resp-accordion:hover .hi-icon, .no-touch .hi-icon-effect-5 .hi-icon:hover {
         background: #ef7070  !important;
     }
     h2.resp-accordion:hover {
-        background: #b63737 !important;
+        background: #ef7070 !important;
     }
     h2.resp-tab-active {
-        background: #b63737 !important;
+        background: #ef7070 !important;
     }
 }
 .title_content:after, .icon_content {
     background: #ef7070;
 }
 .text_content {
-    color: #b63737;
+    color: #ef7070;
 }
 .panel-default>.panel-heading {
     color: #fff;
@@ -183,25 +183,25 @@ h2.resp-accordion:hover .hi-icon, .no-touch .hi-icon-effect-5 .hi-icon:hover {
     background: #ef7070;
 }
 .widget-profil{
-    background: #b63737;   
+    background: #ef7070;   
 }
 .widget-profil .head-image{
-    border: 10px solid #b63737;
+    border: 10px solid #f16060;
 }
 .widget-profil .circle-img {
-    border: 10px solid #b63737;
+    border: 10px solid #f16060;
 }
 .widget-profil  h1 {
-    color:#b63737;
+    color:#ef7070;
 }
 .widget-profil  h4 {
-    color:#b63737; 
+    color:#ef7070; 
 }
 .widget-profil  h6 {
-    color:#b63737; 
+    color:#ef7070; 
 }
 .widget-profil  p {
-    color:#b63737 !important;
+    color:#ef7070 !important;
 }
 .widget-profil #profile_desc {
     border-bottom: 1px solid #f9b4d6;
