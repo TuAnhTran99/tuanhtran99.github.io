@@ -7,7 +7,8 @@ baseurl: "" #change it according to your repository name
 
 # Profile information
 yourname: Tran Tu Anh  ## put your name
-yourname2: May(陳秀映)  ## put your name
+yourname2: May  ## put your name
+yourname3: 陳秀映  ## put your name
 title: Sales and Marketing specialist  ## your title
 location: Taipei, Taiwan
 
@@ -15,7 +16,7 @@ location: Taipei, Taiwan
 ## Social Profiles
 facebook: https://www.facebook.com/tran.tuanh.18041/  ## your facebook account url
 #twitter: http://www.twitter.com  ## your twitter account url
-#linkedin: https://www.linkedin.com/in/tu-anh-may-tran  ## your linkedin account url
+linkedin: https://www.linkedin.com/in/tu-anh-may-tran  ## your linkedin account url
 #dribbble: http://www.dribble.com  ## you dribbble account url
 #foursquare: http://www.foursquare.com  ## your foursquare account url
 
