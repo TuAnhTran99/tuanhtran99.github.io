@@ -136,7 +136,7 @@ h2.resp-accordion:hover .hi-icon, .no-touch .hi-icon-effect-5 .hi-icon:hover {
     background: #fdf1f1;
 }
 .text_content {
-    color: #fdf1f1;
+    color: #ec8484;
 }
 .panel-default>.panel-heading {
     color: #fff;
@@ -183,25 +183,25 @@ h2.resp-accordion:hover .hi-icon, .no-touch .hi-icon-effect-5 .hi-icon:hover {
     background: #fdf1f1;
 }
 .widget-profil{
-    background: #fdf1f1;   
+    background: #ec8484;   
 }
 .widget-profil .head-image{
-    border: 10px solid #f36db0;
+    border: 10px solid #ec8484;
 }
 .widget-profil .circle-img {
-    border: 10px solid #f36db0;
+    border: 10px solid #ec8484;
 }
 .widget-profil  h1 {
-    color:#f9b4d6;
+    color:#ec8484;
 }
 .widget-profil  h4 {
-    color:#f9b4d6; 
+    color:#ec8484; 
 }
 .widget-profil  h6 {
-    color:#f9b4d6; 
+    color:#ec8484; 
 }
 .widget-profil  p {
-    color:#f9b4d6 !important;
+    color:#ec8484 !important;
 }
 .widget-profil #profile_desc {
     border-bottom: 1px solid #f9b4d6;
