@@ -38,7 +38,7 @@ a {
     color: #ef7070;
 }
 #resume .resume-left ul li h5 {
-    border-bottom: 1px solid #ef7070;
+    border-bottom: 1px solid #b84c4c;
 }
 .attributes span.glyphicon, .attributes h6 {
     color: #ef7070;
@@ -126,18 +126,17 @@ h2.resp-accordion:hover .hi-icon, .no-touch .hi-icon-effect-5 .hi-icon:hover {
         background: #ef7070  !important;
     }
     h2.resp-accordion:hover {
-        background: rgba(236, 132, 132, 1) !important;
-        
+        background: #b84c4c !important;
     }
     h2.resp-tab-active {
-        background: rgba(236, 132, 132, 1) !important;
+        background: #b84c4c !important;
     }
 }
 .title_content:after, .icon_content {
     background: #ef7070;
 }
 .text_content {
-    color: #ef7070;
+    color: #b84c4c;
 }
 .panel-default>.panel-heading {
     color: #fff;
@@ -184,25 +183,25 @@ h2.resp-accordion:hover .hi-icon, .no-touch .hi-icon-effect-5 .hi-icon:hover {
     background: #ef7070;
 }
 .widget-profil{
-    background: #ef7070;   
+    background: #b84c4c;   
 }
 .widget-profil .head-image{
-    border: 10px solid #f36db0;
+    border: 10px solid #b84c4c;
 }
 .widget-profil .circle-img {
-    border: 10px solid #f36db0;
+    border: 10px solid #b84c4c;
 }
 .widget-profil  h1 {
-    color:#f9b4d6;
+    color:#b84c4c;
 }
 .widget-profil  h4 {
-    color:#f9b4d6; 
+    color:#b84c4c; 
 }
 .widget-profil  h6 {
-    color:#f9b4d6; 
+    color:#b84c4c; 
 }
 .widget-profil  p {
-    color:#f9b4d6 !important;
+    color:#b84c4c !important;
 }
 .widget-profil #profile_desc {
     border-bottom: 1px solid #f9b4d6;
@@ -221,5 +220,5 @@ h2.resp-accordion:hover .hi-icon, .no-touch .hi-icon-effect-5 .hi-icon:hover {
     background: #ef7070;
 }
 .reference span {
-    color : #f9b4d6;
+    color : #ef7070;
 }
